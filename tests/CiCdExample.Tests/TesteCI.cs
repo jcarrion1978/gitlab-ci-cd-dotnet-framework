@@ -4,6 +4,8 @@ namespace CiCdExample.Tests
 {
     public class TesteCI
     {
+
+        //comentario
         [Fact]
         public void Teste()
         {
