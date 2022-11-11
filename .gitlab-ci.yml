@@ -1,6 +1,6 @@
 variables:
-  NUGET_PATH: 'C:\Tools\Nuget\nuget.exe'
-  MSBUILD_PATH: 'C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\MSBuild\15.0\Bin\msbuild.exe'
+  NUGET_PATH: 'C:\Users\jorge\OneDrive\Documentos\mis Cursos\Gestión de la configuración del Software\NuGet\nuget.exe'
+  MSBUILD_PATH: 'C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\msbuild.exe'
   XUNIT_PATH: packages\xunit.runner.console.2.3.1\tools\net452
   UNITTEST_FOLDER: '.\tests\CiCdExample.Tests\bin\Release\'
 
